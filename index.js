@@ -36,7 +36,7 @@ client.on("message", message => {
       },
       {
         name: "Support server.",
-        value: "Here is the link for the support server of the original bot scripter: https://discord.gg/FAfu4Gp8d8."
+        value: "Here is the link for the support server of the original bot scripter: https://discord.gg/efSxDBBpvN."
       }
     ],
     timestamp: new Date(),
